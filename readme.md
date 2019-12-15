@@ -1,7 +1,6 @@
 # Osama Al Banna Resume
 
 
-
 Please Use [this](https://mega.nz/#F!D842mApK!D1JFDLdPXWJUrc4okvXj7g) decrypted mega link to download/show the cv
 
 Please Notice : To protect this file from any manipulation i signed it
