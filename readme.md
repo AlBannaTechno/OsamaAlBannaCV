@@ -25,6 +25,7 @@ Please Notice : To protect this file from any manipulation i signed it
     * Backend : Asp.net Core Web API  `3.0 => 3.1`
     * Frontend Container : Angular8
     * UI Helpers : ngx-bootstrap
+    * Sqlite & SqlServer
   * Patterns
     * Based On repository pattern
     * Respect Modularitys & SOLID Design Principles
@@ -35,3 +36,4 @@ Please Notice : To protect this file from any manipulation i signed it
   * Technologies
     * Asp.net Core MVS
     * Razor Pages `For Registeration System`
+    * SqlServer
