@@ -30,4 +30,8 @@ Please Notice : To protect this file from any manipulation i signed it
     * Respect Modularitys & SOLID Design Principles
 
  
- 
+* [GraniteHouse](https://mega.nz/#!C8wQnCxJ!Lbnq0kbc2RUpqWAOq9k7UuRgzIaX6gsFxuTLOwvU6A8)
+  * Granite Trading Site
+  * Technologies
+    * Asp.net Core MVS
+    * Razor Pages `For Registeration System`
