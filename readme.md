@@ -1,6 +1,6 @@
 # Osama Al Banna Resume
 
-
+#### Last Update Date : 2019/12/21
 Please Use [this](https://mega.nz/#F!D842mApK!D1JFDLdPXWJUrc4okvXj7g) decrypted mega link to download/show the cv
 
 Please Notice : To protect this file from any manipulation i signed it
@@ -9,3 +9,25 @@ Please Notice : To protect this file from any manipulation i signed it
   
 * [Externally With : GPG](https://www.phildev.net/pgp/gpginstall.html)
   * [Signature File : named [this file name].pdf.sig](https://www.thesecuritybuddy.com/pgp-and-gpg/digital-signature-using-gpg/)
+
+
+### Projects Review
+
+#### Some projects can not published as a public repository to github now so i will provide a preview for those projects 
+* [PreviewsLink](https://mega.nz/fm/29BgWAKS)
+
+#### Project Previews in details
+
+
+DateBook
+* Dating Social App
+* Use Next Technologies
+  * Backend : Asp.net Core Web API  `3.0 => 3.1`
+  * Frontend Container : Angular8
+  * UI Helpers : ngx-bootstrap
+* Patterns
+  * Based On repository pattern
+  * Respect Modularitys & SOLID Design Principles
+
+ 
+ 
