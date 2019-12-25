@@ -19,15 +19,15 @@ Please Notice : To protect this file from any manipulation i signed it
 #### Project Previews in details
 
 
-DateBook
-* Dating Social App
-* Use Next Technologies
-  * Backend : Asp.net Core Web API  `3.0 => 3.1`
-  * Frontend Container : Angular8
-  * UI Helpers : ngx-bootstrap
-* Patterns
-  * Based On repository pattern
-  * Respect Modularitys & SOLID Design Principles
+* DateBook
+  * Dating Social App
+  * Use Next Technologies
+    * Backend : Asp.net Core Web API  `3.0 => 3.1`
+    * Frontend Container : Angular8
+    * UI Helpers : ngx-bootstrap
+  * Patterns
+    * Based On repository pattern
+    * Respect Modularitys & SOLID Design Principles
 
  
  
