@@ -19,7 +19,7 @@ Please Notice : To protect this file from any manipulation i signed it
 #### Project Previews in details
 
 
-* [DateBook](https://mega.nz/#F!SxpigCRK!OcOXxDvfqRPZvVOwJH-XTQ)
+##### [DateBook](https://mega.nz/#F!SxpigCRK!OcOXxDvfqRPZvVOwJH-XTQ)
   * Dating Social App
   * Use Next Technologies
     * Backend : Asp.net Core Web API  `3.0 => 3.1`
@@ -31,9 +31,9 @@ Please Notice : To protect this file from any manipulation i signed it
     * Respect Modularitys & SOLID Design Principles
 
  
-* [GraniteHouse](https://mega.nz/#!C8wQnCxJ!Lbnq0kbc2RUpqWAOq9k7UuRgzIaX6gsFxuTLOwvU6A8)
-  * Granite Trading Site
-  * Technologies
-    * Asp.net Core MVS
-    * Razor Pages `For Registeration System`
-    * SqlServer
+#### [GraniteHouse](https://mega.nz/#!C8wQnCxJ!Lbnq0kbc2RUpqWAOq9k7UuRgzIaX6gsFxuTLOwvU6A8)
+   * Granite Trading Site
+   * Technologies
+     * Asp.net Core MVS
+     * Razor Pages `For Registeration System`
+     * SqlServer
