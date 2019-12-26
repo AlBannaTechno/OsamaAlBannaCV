@@ -43,5 +43,5 @@ Please Notice : To protect this file from any manipulation i signed it
   * developed with wpf & windows system sdk
   * [Silent Version](https://mega.nz/#!exoWxAwb!vOMtRkZwN8gDLZo0W3DikKYmPr_AZiskCYb5h8YHomw) : `fetch password list in by just click on exe file and save it to exe location`
     * developed with windows form
-  * GIF
-  ![wpUI](./AbtWifiPassUIPreview.gif)
+    
+  ![wpUI](./previews/AbtWifiPassUIPreview.gif)
