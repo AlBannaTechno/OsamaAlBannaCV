@@ -45,3 +45,9 @@ Please Notice : To protect this file from any manipulation i signed it
     * developed with windows form
     
   ![wpUI](./previews/AbtWifiPassUIPreview.gif)
+
+#### [Wpf Simple Store Manager](https://mega.nz/#!To5Q0KwR!54FHe9rOf3spao3U-pf0F35E50N4cazykYAxF1hm5EQ)
+   * The main purpose of this app is demonstrate using pointers between different windows without losing data in wpf app
+   * Technologies
+     * Wpf
+     * SqlServer & SQLite
