@@ -34,7 +34,7 @@ Please Notice : To protect this file from any manipulation i signed it
 #### [GraniteHouse](https://mega.nz/#!C8wQnCxJ!Lbnq0kbc2RUpqWAOq9k7UuRgzIaX6gsFxuTLOwvU6A8)
    * Granite Trading Site
    * Technologies
-     * Asp.net Core MVS
+     * Asp.net Core MVC : 2.1
      * Razor Pages `For Registeration System`
      * SqlServer
      
