@@ -1,6 +1,6 @@
 # Osama Al Banna Resume
 
-#### Last Update Date : 2019/12/26
+#### Last Update Date : 2020/01/23
 Please Use [this](https://mega.nz/#F!D842mApK!D1JFDLdPXWJUrc4okvXj7g!rh4g3KrI) decrypted mega link to download/show the cv
 
 Please Notice : To protect this file from any manipulation i signed it
@@ -11,12 +11,33 @@ Please Notice : To protect this file from any manipulation i signed it
   * [Signature File : named [this file name].pdf.sig](https://www.thesecuritybuddy.com/pgp-and-gpg/digital-signature-using-gpg/)
   * My Fingerprint : `3C0CF524B1AE5C08D2CF1576CB13D5ABD30D7F9A`
 
-### Projects Review
+### Projects Previews
 
 #### Some projects can not published as a public repository to github now so i will provide a preview for those projects 
 * [PreviewsLink](https://mega.nz/#F!r8xk1CwJ!W5Gz_we0mjXbBufCfvABmQ)
 
 #### Project Previews in details
+
+##### [PHP CMS](https://mega.nz/#F!SxokwCzJ!k1LbVXZuluso6IKNfYsiVA)
+  * Content Management System
+  * Technologies
+    * PHP : `Pure 7.1`
+     * Sessions : `Used Apache Server Sessions , No Client Session, Only cokie with id`
+    * [Jwt](https://github.com/firebase/php-jwt) : `AuthSystem Base`
+    * `Every Server Side Functionalities Built from scratch except jwt generator`
+    * MySql
+    * Bootstrap 4
+  * Notes
+    * This application demnostrate the main design paradigm php oriented to , which called/ImplementedAs `Spaghetti Pattern`
+      * This Pattern considered as an `anti-pattern` , so it's very dangerous to use it in medium+ application
+      But since it is the most commom paradigm php designed for 
+      `for example you can use many globals/statac variable at any place` which violate SRP `Single Responsibility Principle`
+    * So, Why Create This app with this pattern ?
+      * Answer : to demonstrate some of use cases of this pattern , and show how very easy this pattern may destroy any project
+     with just simple refactoring
+     
+     * At the end , there is no way in php to implement things like Clean Architecture without top-level abstraction layers
+     eg, frameworks `eg, laravel` to restrict some of the language features or produce an alternatives of anti-pattern core features ,`but surely this will comes with performance costs`
 
 
 ##### [DateBook](https://mega.nz/#F!SxpigCRK!OcOXxDvfqRPZvVOwJH-XTQ)
