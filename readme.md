@@ -1,7 +1,7 @@
 # Osama Al Banna Resume
 
 #### Last Update Date : 2020/01/23
-Please Use [this](https://mega.nz/#F!D842mApK!D1JFDLdPXWJUrc4okvXj7g!rh4g3KrI) decrypted mega link to download/show the cv
+Please Use [this](https://mega.nz/#F!21QzFAYb!YDFikLBkTp0KznPFZU68mQ) decrypted mega link to download/show the resume
 
 Please Notice : To protect this file from any manipulation i signed it
 * Internally with : Foxit Phantom
@@ -14,7 +14,6 @@ Please Notice : To protect this file from any manipulation i signed it
 ### Projects Previews
 
 #### Some projects can not published as a public repository to github now so i will provide a preview for those projects 
-* [PreviewsLink](https://mega.nz/#F!r8xk1CwJ!W5Gz_we0mjXbBufCfvABmQ)
 
 #### Project Previews in details
 
@@ -52,22 +51,22 @@ Please Notice : To protect this file from any manipulation i signed it
     * Respect Modularitys & SOLID Design Principles
 
  
-#### [GraniteHouse](https://mega.nz/#!C8wQnCxJ!Lbnq0kbc2RUpqWAOq9k7UuRgzIaX6gsFxuTLOwvU6A8)
+#### [GraniteHouse](https://mega.nz/#F!6oIhyCbJ!sw7SwcJ79-bWvN9rIQBOIQ)
    * Granite Trading Site
    * Technologies
      * Asp.net Core MVC : 2.1
      * Razor Pages `For Registeration System`
      * SqlServer
      
-#### [AbtWifiPassUI](https://mega.nz/#!L0oVmQwI!-kvdJX0QLk9uvTGry1_tIa8PwNo2sNgJy0UFekZvbSo)
+#### [AbtWifiPassUI](https://mega.nz/#!exJRVK5a!-kvdJX0QLk9uvTGry1_tIa8PwNo2sNgJy0UFekZvbSo)
   * UI Utils Allow to fetch all saved wifi passwords from local machine
   * developed with wpf & windows system sdk
-  * [Silent Version](https://mega.nz/#!exoWxAwb!vOMtRkZwN8gDLZo0W3DikKYmPr_AZiskCYb5h8YHomw) : `fetch password list in by just click on exe file and save it to exe location`
+  * [Silent Version](https://mega.nz/#!LsJ3HIpD!vOMtRkZwN8gDLZo0W3DikKYmPr_AZiskCYb5h8YHomw) : `fetch password list in by just click on exe file and save it to exe location`
     * developed with windows form
     
   ![wpUI](./previews/AbtWifiPassUIPreview.gif)
 
-#### [Wpf Simple Store Manager](https://mega.nz/#!To5Q0KwR!54FHe9rOf3spao3U-pf0F35E50N4cazykYAxF1hm5EQ)
+#### [Wpf Simple Store Manager](https://mega.nz/#!S9QRxYgQ!54FHe9rOf3spao3U-pf0F35E50N4cazykYAxF1hm5EQ)
    * The main purpose of this app is demonstrate using pointers between different windows without losing data in wpf app
    * Technologies
      * Wpf
