@@ -26,6 +26,7 @@ Please Notice : To protect this file from any manipulation i signed it
     * `Every Server Side Functionalities Built from scratch except jwt generator`
     * MySql
     * Bootstrap 4
+    * Files Prvider : Local File System
   * Notes
     * This application demnostrate the main design paradigm php oriented to , which called/ImplementedAs `Spaghetti Pattern`
       * This Pattern considered as an `anti-pattern` , so it's very dangerous to use it in medium+ application
@@ -46,6 +47,8 @@ Please Notice : To protect this file from any manipulation i signed it
     * Frontend Container : Angular8
     * UI Helpers : ngx-bootstrap
     * Sqlite & SqlServer
+    * Files Prvider : Cloud
+      * [Cloudinary](https://cloudinary.com)
   * Patterns
     * Based On repository pattern
     * Respect Modularitys & SOLID Design Principles
@@ -57,6 +60,7 @@ Please Notice : To protect this file from any manipulation i signed it
      * Asp.net Core MVC : 2.1
      * Razor Pages `For Registeration System`
      * SqlServer
+     * * Files Prvider : Local File System
      
 #### [AbtWifiPassUI](https://mega.nz/#!exJRVK5a!-kvdJX0QLk9uvTGry1_tIa8PwNo2sNgJy0UFekZvbSo)
   * UI Utils Allow to fetch all saved wifi passwords from local machine
