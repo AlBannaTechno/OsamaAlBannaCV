@@ -34,6 +34,13 @@ Please Notice : To protect this file from any manipulation i signed it
 #### [NwJsDefinitelyTyped](https://github.com/AlBannaTechno/NwJsDefinitelyTyped) 
   * `DefinitelyTyped files to support autocomplete and embedded docs for NwJs Projects`
 
+#### [Gravity-center-and-Area-Calculatore](https://github.com/AlBannaTechno/Gravity-center-and-Area-Calculatore)
+  * `Calculate Center Of Gravity And Area Of 3D Shapes With Drwaing it in 2d/3d with Orthographic/Perspective`
+  * Built with pyqt/opengl/glfw3
+
+#### [JsAreaCalculater](https://github.com/AlBannaTechno/AreaCalculater)
+  * `Calculate Area With (x,y) points by divide it as triangles`
+  * Demonstrate Very Complex Topics In Functional Programming , with javascript
 
 #### Some projects can not published as a public repository to github now so i will provide a preview for those projects 
 
