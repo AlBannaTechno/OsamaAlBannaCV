@@ -217,7 +217,7 @@ Please Notice : To protect this file from any manipulation i signed it
 <p>
 
 * Based On repository pattern
-* Respect Modularitys & SOLID Design Principles
+* Respect Modularity & SOLID Design Principles
 
 </p>
 </details>
