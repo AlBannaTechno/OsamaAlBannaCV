@@ -46,6 +46,119 @@ Please Notice : To protect this file from any manipulation i signed it
   * Every project link leads to preview `video` on mega cloud provider
 
 ### Projects Previews
+
+#### [ActiveBook](https://mega.nz/#!r4AFySYa!7Ba4twziL4mBpZZtIlyoyk4hfkTnrbtI3JP328ATZmQ)
+
+##### Social Network App
+##### built as demonstration of hyper clean arch
+
+<details><summary>Backend Technologies</summary>
+<p>
+ 
+* Asp.net Core
+* Architecture
+    * [Clean Arch](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures#clean-architecture) 
+        * With Hyper Separation Of Infrastructure Layers
+        * Communication With CQRS
+            * Implemented With MediatR Pattern as MediatR.net Package
+    * Both Client Side And Server Side Respect All Solid Principles
+        * except store part of client side since using DI(IoC) with react/mobx is just an overhead
+            so we use self-referencing `God Object` anti pattern 
+            `this pattern must use with only awareness developers, not suitable for intermediate level or begineer developer`
+            since this may leads to issues with testing (FDD/BDD) if developers does not know how to controlling its side effects
+    * To Respect SC we delegate validation out of ef core to Command or Query in CQRS `MediatR`
+        * we use `FluentValidation.AspNetCore` package to support popular validation, and created our custom validation
+    * All Loading of nested entities done with `LazyLoadingProxies` middleware to prevent loading non necessary data
+        * For that we use `AutoMapper` without needing to configure it with ef core, since all loading be lazy
+    * All Mapping With `AutoMapper` Package `DI EF CORE` version
+    * Notes
+        * We Delegate any logic out of Domain Layer, so domain only have models
+            * and as known in testing , `Domain models are not application entities`
+            so Model is a pure `POCO` object
+* Database
+    * Developing `sqLite`
+    * Production
+        * `SqlServer` for Azure
+        * `MySql/MariaDB` for Linux Server
+* VCS
+    * GitHub
+    
+* Cloud Providers
+    * Cloudinary For Image storage and images manipulation eg,`Focus cropping to face`
+
+</p>
+</details>
+
+<details><summary>Frontend Technologies </summary>
+<p>
+
+* [React](https://reactjs.org/)
+  * UI manager 
+* [Typescript](https://www.typescriptlang.org/)
+  * Type safty enhancer
+* [Axios](https://github.com/axios/axios)
+  * HTTP client
+* [mobx-react-lite](https://mobx-react.js.org/)
+  * State mangament system
+* [semantic-ui-react](https://react.semantic-ui.com/)
+  * Layout/UI Components
+* [react-router-dom](https://reacttraining.com/react-router/)
+  * Routing System Provider/Controller
+* [react toastify](https://fkhadra.github.io/react-toastify/)
+  * Toasting Messages
+* [react final form](https://final-form.org/docs/react-final-form/getting-started)
+  * Form Wrapper
+* [revalidate](https://github.com/jfairbank/revalidate)
+  * Prebuilt validations for form fields
+
+</p>
+</details>
+
+
+<details><summary>Project Structure</summary>
+<p>
+
+
+* Domain
+    * Contains all domain entities projects
+    * Zero Local Dependency
+
+* Application
+    * Contains all business logic projects
+    * Depends on
+        * Domain
+        * Persistence
+
+* API
+    * Contains Web API projects
+    * Responsible for receiving and responding to http requests
+    * Depends on
+        * Application
+
+* Persistence
+    * Contains Persistence projects
+    * Responsible for database access and queries
+    * Depends on
+        * Domain
+
+* Infrastructure
+    * Local
+        * Contains local infrastructure projects eg, IoC, Security, Interfaces
+    * Remote
+        * Contains remote infrastructure project eg, Cloud repositories for images and videos
+
+* Presentation
+    * Contains UI/Client projects eg, reactApp , angularApp ...
+    * But Not Asp.net Core MVC App `This project is web api & client`
+    * Ignored by default from .git of backend to allow work separately on front-end
+    
+* Dev
+    * For any development files 
+    * Ignored from git track
+
+</p>
+</details>
+
 ##### [PHP CMS](https://mega.nz/#F!SxokwCzJ!k1LbVXZuluso6IKNfYsiVA)
   * Content Management System
   * Technologies
