@@ -159,61 +159,116 @@ Please Notice : To protect this file from any manipulation i signed it
 </p>
 </details>
 
-##### [PHP CMS](https://mega.nz/#F!SxokwCzJ!k1LbVXZuluso6IKNfYsiVA)
-  * Content Management System
-  * Technologies
-    * PHP : `Pure 7.1`
-     * Sessions : `Used Apache Server Sessions , No Client Session, Only cokie with id`
-    * [Jwt](https://github.com/firebase/php-jwt) : `AuthSystem Base`
-    * `Every Server Side Functionalities Built from scratch except jwt generator`
-    * MySql
-    * Bootstrap 4
-    * Files Prvider : Local File System
-  * Notes
-    * This application demnostrate the main design paradigm php oriented to , which called/ImplementedAs `Spaghetti Pattern`
-      * This Pattern considered as an `anti-pattern` , so it's very dangerous to use it in medium+ application
-      But since it is the most commom paradigm php designed for 
-      `for example you can use many globals/statac variable at any place` which violate SRP `Single Responsibility Principle`
-    * So, Why Create This app with this pattern ?
-      * Answer : to demonstrate some of use cases of this pattern , and show how very easy this pattern may destroy any project
-     with just simple refactoring
-     
-     * At the end , there is no way in php to implement things like Clean Architecture without top-level abstraction layers
-     eg, frameworks `eg, laravel` to restrict some of the language features or produce an alternatives of anti-pattern core features ,`but surely this will comes with performance costs`
+#### [PHP CMS](https://mega.nz/#F!SxokwCzJ!k1LbVXZuluso6IKNfYsiVA)
+##### Content Management System
+
+<details><summary>Technologies</summary>
+<p>
+
+* PHP : `Pure 7.1`
+ * Sessions : `Used Apache Server Sessions , No Client Session, Only cokie with id`
+* [Jwt](https://github.com/firebase/php-jwt) : `AuthSystem Base`
+* `Every Server Side Functionalities Built from scratch except jwt generator`
+* MySql
+* Bootstrap 4
+* Files Prvider : Local File System
 
 
-##### [DateBook](https://mega.nz/#F!SxpigCRK!OcOXxDvfqRPZvVOwJH-XTQ)
-  * Dating Social App
-  * Use Next Technologies
-    * Backend : Asp.net Core Web API  `3.0 => 3.1`
-    * Frontend Container : Angular8
-    * UI Helpers : ngx-bootstrap
-    * Sqlite & SqlServer
-    * Files Prvider : Cloud
-      * [Cloudinary](https://cloudinary.com)
-  * Patterns
-    * Based On repository pattern
-    * Respect Modularitys & SOLID Design Principles
+</p>
+</details>
 
- 
+<details><summary>Notes</summary>
+<p>
+
+* This application demnostrate the main design paradigm php oriented to , which called/ImplementedAs `Spaghetti Pattern`
+  * This Pattern considered as an `anti-pattern` , so it's very dangerous to use it in medium+ application
+  But since it is the most commom paradigm php designed for 
+  `for example you can use many globals/statac variable at any place` which violate SRP `Single Responsibility Principle`
+* So, Why Create This app with this pattern ?
+  * Answer : to demonstrate some of use cases of this pattern , and show how very easy this pattern may destroy any project
+ with just simple refactoring
+
+ * At the end , there is no way in php to implement things like Clean Architecture without top-level abstraction layers
+ eg, frameworks `eg, laravel` to restrict some of the language features or produce an alternatives of anti-pattern core features ,`but surely this will comes with performance costs`
+
+
+</p>
+</details>
+
+
+#### [DateBook](https://mega.nz/#F!SxpigCRK!OcOXxDvfqRPZvVOwJH-XTQ)
+
+##### Dating Social App
+
+<details><summary>Use Next Technologies</summary>
+<p>
+
+* Backend : Asp.net Core Web API  `2.2 => 3.0`
+* Frontend Container : Angular8
+* UI Helpers : ngx-bootstrap
+* Sqlite & SqlServer
+* Files Prvider : Cloud
+  * [Cloudinary](https://cloudinary.com)
+
+</p>
+</details>
+
+<details><summary>Patterns</summary>
+<p>
+
+* Based On repository pattern
+* Respect Modularitys & SOLID Design Principles
+
+</p>
+</details>
+
 #### [GraniteHouse](https://mega.nz/#F!6oIhyCbJ!sw7SwcJ79-bWvN9rIQBOIQ)
-   * Granite Trading Site
-   * Technologies
-     * Asp.net Core MVC : 2.1
-     * Razor Pages `For Registeration System`
-     * SqlServer
-     * * Files Prvider : Local File System
+##### Granite Trading Site
+
+<details><summary>Technologies</summary>
+<p>
+ 
+* Asp.net Core MVC : 2.1
+* Razor Pages `For Registeration System Layout`
+* SqlServer
+* Files Prvider : `Local File System`
+
+</p>
+</details>
+
      
 #### [AbtWifiPassUI](https://mega.nz/#!exJRVK5a!-kvdJX0QLk9uvTGry1_tIa8PwNo2sNgJy0UFekZvbSo)
-  * UI Utils Allow to fetch all saved wifi passwords from local machine
+##### UI Utils Allow to fetch all saved wifi passwords from local machine
+
+<details><summary>Details</summary>
+<p>
+ 
+* [UI Version](https://mega.nz/#!exJRVK5a!-kvdJX0QLk9uvTGry1_tIa8PwNo2sNgJy0UFekZvbSo)
   * developed with wpf & windows system sdk
-  * [Silent Version](https://mega.nz/#!LsJ3HIpD!vOMtRkZwN8gDLZo0W3DikKYmPr_AZiskCYb5h8YHomw) : `fetch password list in by just click on exe file and save it to exe location`
-    * developed with windows form
+* [Silent Version](https://mega.nz/#!LsJ3HIpD!vOMtRkZwN8gDLZo0W3DikKYmPr_AZiskCYb5h8YHomw) 
+   * `fetching passwords list by just clicking on exe file and save it to exe location`
+   * developed with windows form
+</p>
+</details>
+
+<details><summary>Preview</summary>
+<p>
+
+![wpUI](./previews/AbtWifiPassUIPreview.gif)
+
+</p>
+</details>
     
-  ![wpUI](./previews/AbtWifiPassUIPreview.gif)
+  
 
 #### [Wpf Simple Store Manager](https://mega.nz/#!S9QRxYgQ!54FHe9rOf3spao3U-pf0F35E50N4cazykYAxF1hm5EQ)
-   * The main purpose of this app is demonstrate using pointers between different windows without losing data in wpf app
-   * Technologies
-     * Wpf
-     * SqlServer & SQLite
+#### The main purpose of this app is demonstrate using pointers between different windows without losing data in wpf app
+
+<details><summary>Technologies</summary>
+<p>
+
+ * Wpf
+ * SqlServer & SQLite
+
+</p>
+</details>
