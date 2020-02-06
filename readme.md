@@ -201,7 +201,7 @@ Please Notice : To protect this file from any manipulation i signed it
 
 ##### Dating Social App
 
-<details><summary>Use Next Technologies</summary>
+<details><summary>Technologies</summary>
 <p>
 
 * Backend : Asp.net Core Web API  `2.2 => 3.0`
