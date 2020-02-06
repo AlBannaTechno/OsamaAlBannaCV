@@ -15,18 +15,24 @@ Please Notice : To protect this file from any manipulation i signed it
 
 ### Open Source Projects
 
-#### [BanMvc](https://github.com/AlBannaTechno/BanMvcZero) `PHP MVC Framework That Porting Some Of [C# Asp.net Core] Features, philosophies To PHP`
+#### [BanMvc](https://github.com/AlBannaTechno/BanMvcZero) 
+  * `PHP MVC Framework That Porting Some Of [C# Asp.net Core] Features, philosophies To PHP`
 
-#### [FriendOrganizer](https://github.com/AlBannaTechno/FinalFriendsOrganizer) `Wpf Friend Organizing Application Build With Advanced Enterprise Technologies `
- * Can used as a core of any dynamic high performance desktop application with .net
+#### [FriendOrganizer](https://github.com/AlBannaTechno/FinalFriendsOrganizer) 
+  * `Wpf Friend Organizing Application Build With Advanced Enterprise Technologies `
+  * Can used as a core of any dynamic high performance desktop application with .net
 
-#### [AbtTerminal](https://github.com/AlBannaTechno/AbtTerminal) `Embedded terminal project based on Pyqt`
+#### [AbtTerminal](https://github.com/AlBannaTechno/AbtTerminal) 
+  * `Embedded terminal project based on Pyqt`
 
-#### [AlBannaDesigner-OpenGL](https://github.com/AlBannaTechno/AlBannaDesigner-OpenGL) `Graphic Engine C++/OpenGL`
+#### [AlBannaDesigner-OpenGL](https://github.com/AlBannaTechno/AlBannaDesigner-OpenGL) 
+  * `Graphic Engine With OpenGL/C++`
 
-#### [AbtNumericalSystemConverter](https://github.com/AlBannaTechno/AbtNumericalSystemConverter) `Numerical System Converter with any base & support Command Line Interface `
+#### [AbtNumericalSystemConverter](https://github.com/AlBannaTechno/AbtNumericalSystemConverter) 
+  * `Numerical System Converter with any base & support Command Line Interface `
 
-#### [NwJsDefinitelyTyped](https://github.com/AlBannaTechno/NwJsDefinitelyTyped) `DefinitelyTyped files to support autocomplete and embedded docs for NwJs Projects`
+#### [NwJsDefinitelyTyped](https://github.com/AlBannaTechno/NwJsDefinitelyTyped) 
+  * `DefinitelyTyped files to support autocomplete and embedded docs for NwJs Projects`
 
 
 #### Some projects can not published as a public repository to github now so i will provide a preview for those projects 
