@@ -11,8 +11,6 @@ Please Notice : To protect this file from any manipulation i signed it
   * [Signature File : named [this file name].pdf.sig](https://www.thesecuritybuddy.com/pgp-and-gpg/digital-signature-using-gpg/)
   * My Fingerprint : `3C0CF524B1AE5C08D2CF1576CB13D5ABD30D7F9A`
 
-### Projects Previews
-
 ### Open Source Projects
 
 #### [BanMvc](https://github.com/AlBannaTechno/BanMvcZero) 
@@ -42,11 +40,12 @@ Please Notice : To protect this file from any manipulation i signed it
   * `Calculate Area With (x,y) points by divide it as triangles`
   * Demonstrate Very Complex Topics In Functional Programming , with javascript
 
-#### Some projects can not published as a public repository to github now so i will provide a preview for those projects 
 
-#### Private Project Previews in details
+### Private Projects
+  * Some projects can not published as a public repository to github now so i will provide a preview for those projects
   * Every project link leads to preview `video` on mega cloud provider
 
+### Projects Previews
 ##### [PHP CMS](https://mega.nz/#F!SxokwCzJ!k1LbVXZuluso6IKNfYsiVA)
   * Content Management System
   * Technologies
