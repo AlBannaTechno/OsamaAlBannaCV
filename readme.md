@@ -64,13 +64,14 @@ Please Notice : To protect this file from any manipulation i signed it
     * Both Client Side And Server Side Respect All Solid Principles
         * except store part of client side since using DI(IoC) with react/mobx is just an overhead
             so we use self-referencing `God Object` anti pattern 
-            `this pattern must use with only awareness developers, not suitable for intermediate level or begineer developer`
-            since this may leads to issues with testing (FDD/BDD) if developers does not know how to controlling its side effects
-    * To Respect SC we delegate validation out of ef core to Command or Query in CQRS `MediatR`
-        * we use `FluentValidation.AspNetCore` package to support popular validation, and created our custom validation
+            * this pattern `anti` can be used safely with some restrictions in dynamic typing languages
+            * since this may leads to issues with testing (FDD/BDD) if developers does not know how to controlling its side effects
+            
+    * To Respect SCP we delegated validation out of `entity framework core` to Command or Query in CQRS `MediatR`
+        * we use `FluentValidation.AspNetCore` package to support popular validation, also created some custom validations
     * All Loading of nested entities done with `LazyLoadingProxies` middleware to prevent loading non necessary data
         * For that we use `AutoMapper` without needing to configure it with ef core, since all loading be lazy
-    * All Mapping With `AutoMapper` Package `DI EF CORE` version
+    * All Mapping With `AutoMapper` Package `Dependency.Injection.CORE` version
     * Notes
         * We Delegate any logic out of Domain Layer, so domain only have models
             * and as known in testing , `Domain models are not application entities`
