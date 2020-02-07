@@ -11,6 +11,9 @@ Please Notice : To protect this file from any manipulation i signed it
   * [Signature File : named [this file name].pdf.sig](https://www.thesecuritybuddy.com/pgp-and-gpg/digital-signature-using-gpg/)
   * My Fingerprint : `3C0CF524B1AE5C08D2CF1576CB13D5ABD30D7F9A`
 
+
+##### Note: Some of next projects base ideas inspired by popular success busniss projects or online training course/s
+
 ### Open Source Projects
 
 #### [BanMvc](https://github.com/AlBannaTechno/BanMvcZero) 
