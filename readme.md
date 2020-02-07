@@ -16,6 +16,9 @@ Please Notice : To protect this file from any manipulation i signed it
 
 ### Open Source Projects
 
+#### [C# Design Patterns Collection](https://github.com/AlBannaTechno/C-Sharp-Design-Pattern-Collection)
+  * `Contains an implementations for most of design patterns in C# language`
+
 #### [BanMvc](https://github.com/AlBannaTechno/BanMvcZero) 
   * `PHP MVC Framework That Porting Some Of [C# Asp.net Core] Features, philosophies To PHP`
 
