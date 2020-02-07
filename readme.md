@@ -41,7 +41,7 @@ Please Notice : To protect this file from any manipulation i signed it
 
 #### [JsAreaCalculater](https://github.com/AlBannaTechno/AreaCalculater)
   * `Calculate Area With (x,y) points by divide it as triangles`
-  * Demonstrate Very Complex Topics In Functional Programming , with javascript
+  * Demonstrate Advanced Scenarios In Functional Programming , with javascript
 
 
 ### Private Projects
