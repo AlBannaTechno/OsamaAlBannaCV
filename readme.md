@@ -190,7 +190,7 @@ Please Notice : To protect this file from any manipulation i signed it
 * This application demnostrate the main design paradigm php oriented to , which called/ImplementedAs `Spaghetti Pattern`
   * This Pattern considered as an `anti-pattern` , so it's very dangerous to use it in medium+ application
   But since it is the most commom paradigm php designed for 
-  `for example you can use many globals/statac variable at any place` which violate SRP `Single Responsibility Principle`
+  `for example you can use(access/modify) many global/static variables from anywhere in the code` which violate SRP `Single Responsibility Principle`
 * So, Why Create This app with this pattern ?
   * Answer : to demonstrate some of use cases of this pattern , and show how very easy this pattern may destroy any project
  with just simple refactoring
