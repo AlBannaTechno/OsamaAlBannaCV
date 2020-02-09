@@ -71,7 +71,7 @@ Please Notice : To protect this file from any manipulation i signed it
         * except store part of client side since using DI(IoC) with react/mobx is just an overhead
             so we use self-referencing `God Object` anti pattern 
             * this pattern `anti` can be used safely with some restrictions in dynamic typing languages
-            * since this may leads to issues with testing (FDD/BDD) if developers does not know how to controlling its side effects
+            * since this may leads to issues with some of testing methodologies (FDD/BDD)`@ subcutaneous test, UI test` if developers does not know how to controlling its side effects
             
     * To Respect SCP we delegated validation out of `entity framework core` to Command or Query in CQRS `MediatR`
         * we use `FluentValidation.AspNetCore` package to support popular validation, also created some custom validations
