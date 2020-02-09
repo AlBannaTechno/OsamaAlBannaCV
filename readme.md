@@ -255,6 +255,18 @@ Please Notice : To protect this file from any manipulation i signed it
 * [Silent Version](https://mega.nz/#!LsJ3HIpD!vOMtRkZwN8gDLZo0W3DikKYmPr_AZiskCYb5h8YHomw) 
    * `fetching passwords list by just clicking on exe file and save it to exe location`
    * developed with windows form
+* Note
+  * I remove tracking keyboard via remote server functionality since it is not encrypted and most of antivrus software
+  will treat it as a malicious software
+    * this happens because this functionality based on execute `memory injection` attack from C++ dll via unsafe code
+    so you need to encrypt the source code and only compile it on the flay, so i will need to ship gcc compiler with
+    this app, since neither me or you have a certification to publish this application with it and we can not legally
+    accomplish this, so i just decide to move it to my rates software repository `private`.
+    * Also still need to chip `gcc` or `g++` with `the spy server` to allow low level execution , and this will only
+    work well with windowx xp, vista, `unless you have a vulnerability to melt this app process with it :)`
+    
+    * Also you should know , this mechanism is very popular in `RAT` applications `eg, njRAT`.
+    
 </p>
 </details>
 
