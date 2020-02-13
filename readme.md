@@ -1,6 +1,6 @@
 # Osama Al Banna Resume
 
-#### Last Update Date : 2020/02/07
+#### Last Update Date : 2020/02/13
 Please Use [this](https://mega.nz/#F!21QzFAYb!YDFikLBkTp0KznPFZU68mQ) decrypted mega link to download/show the resume
 
 Please Notice : To protect this file from any manipulation i signed it
