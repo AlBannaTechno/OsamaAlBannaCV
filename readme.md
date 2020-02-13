@@ -166,6 +166,20 @@ Please Notice : To protect this file from any manipulation i signed it
 </p>
 </details>
 
+<details><summary>Structure Diagrams</summary>
+<p>
+ 
+#### Calls UML Diagram
+ 
+![wpUI](./previews/AllCalls.png)
+
+#### Referenced UML Diagram
+
+![wpUI](./previews/AllReferences.png)
+
+</p>
+</details>
+
 #### [PHP CMS](https://mega.nz/#F!SxokwCzJ!k1LbVXZuluso6IKNfYsiVA)
 ##### Content Management System
 
