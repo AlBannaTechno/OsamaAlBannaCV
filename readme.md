@@ -92,7 +92,7 @@ Please Notice : To protect this file from any manipulation i signed it
     
 * Cloud Providers
     * Cloudinary For Image storage and images manipulation eg,`Focus cropping to face`
-* Live Clients Communication
+* RealTime Communications
     * SignalR 
 
 </p>
