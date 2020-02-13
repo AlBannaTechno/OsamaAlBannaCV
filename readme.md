@@ -171,11 +171,11 @@ Please Notice : To protect this file from any manipulation i signed it
  
 #### Calls UML Diagram
  
-![wpUI](./previews/AllCalls.png)
+![wpUI](./previews/ActiveBook/FinalCalls.png)
 
-#### Referenced UML Diagram
+#### References UML Diagram
 
-![wpUI](./previews/AllReferences.png)
+![wpUI](./previews/ActiveBook/FinalReferences.png)
 
 </p>
 </details>
