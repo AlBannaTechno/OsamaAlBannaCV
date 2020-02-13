@@ -166,7 +166,7 @@ Please Notice : To protect this file from any manipulation i signed it
 </p>
 </details>
 
-<details><summary>Structure Diagrams</summary>
+<details><summary>Architecture Diagrams</summary>
 <p>
  
 #### Calls UML Diagram
