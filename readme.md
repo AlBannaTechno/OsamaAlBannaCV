@@ -57,6 +57,7 @@ Please Notice : To protect this file from any manipulation i signed it
 
 ##### Social Network App For Activities
 ##### built as demonstration of hyper clean arch
+##### Notic, in preview we used 500ms delays for every http request to simulate response delays.
 
 <details><summary>Backend Technologies</summary>
 <p>
