@@ -6,7 +6,7 @@ Please Use [this](https://mega.nz/#F!21QzFAYb!YDFikLBkTp0KznPFZU68mQ) decrypted 
 Please Notice : To protect this file from any manipulation i signed it
 * Internally with : Foxit Phantom
   * To check it press on the signature at the right bottom corner of this page (may not working on the browser)
-  
+
 * [Externally With : GPG](https://www.phildev.net/pgp/gpginstall.html)
   * [Signature File : named [this file name].pdf.sig](https://www.thesecuritybuddy.com/pgp-and-gpg/digital-signature-using-gpg/)
   * My Fingerprint : `3C0CF524B1AE5C08D2CF1576CB13D5ABD30D7F9A`
@@ -25,23 +25,23 @@ Please Notice : To protect this file from any manipulation i signed it
 #### [C# Design Patterns Collection](https://github.com/AlBannaTechno/C-Sharp-Design-Pattern-Collection)
   * `Contains an implementations for most of design patterns in C# language`
 
-#### [BanMvc](https://github.com/AlBannaTechno/BanMvcZero) 
+#### [BanMvc](https://github.com/AlBannaTechno/BanMvcZero)
   * `PHP MVC Framework That Porting Some Of [C# Asp.net Core] Features, philosophies To PHP`
 
-#### [FriendOrganizer](https://github.com/AlBannaTechno/FinalFriendsOrganizer) 
+#### [FriendOrganizer](https://github.com/AlBannaTechno/FinalFriendsOrganizer)
   * `Wpf Friend Organizing Application Build With Advanced Enterprise Technologies `
   * Can used as a core of any dynamic high performance desktop application with .net
 
-#### [AbtTerminal](https://github.com/AlBannaTechno/AbtTerminal) 
+#### [AbtTerminal](https://github.com/AlBannaTechno/AbtTerminal)
   * `Embedded terminal project based on Pyqt`
 
-#### [AlBannaDesigner-OpenGL](https://github.com/AlBannaTechno/AlBannaDesigner-OpenGL) 
+#### [AlBannaDesigner-OpenGL](https://github.com/AlBannaTechno/AlBannaDesigner-OpenGL)
   * `Graphic Engine With OpenGL/C++`
 
-#### [AbtNumericalSystemConverter](https://github.com/AlBannaTechno/AbtNumericalSystemConverter) 
+#### [AbtNumericalSystemConverter](https://github.com/AlBannaTechno/AbtNumericalSystemConverter)
   * `Numerical System Converter with any base & support Command Line Interface `
 
-#### [NwJsDefinitelyTyped](https://github.com/AlBannaTechno/NwJsDefinitelyTyped) 
+#### [NwJsDefinitelyTyped](https://github.com/AlBannaTechno/NwJsDefinitelyTyped)
   * `DefinitelyTyped files to support autocomplete and embedded docs for NwJs Projects`
 
 #### [Gravity-center-and-Area-Calculatore](https://github.com/AlBannaTechno/Gravity-center-and-Area-Calculatore)
@@ -67,19 +67,19 @@ Please Notice : To protect this file from any manipulation i signed it
 
 <details><summary>Backend Technologies</summary>
 <p>
- 
+
 * Asp.net Core
 * Architecture
-    * [Clean Arch](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures#clean-architecture) 
+    * [Clean Arch](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures#clean-architecture)
         * With Hyper Separation Of Infrastructure Layers
         * Communication With CQRS
             * Implemented With MediatR Pattern as MediatR.net Package
     * Both Client Side And Server Side Respect All Solid Principles
         * except store part of client side since using DI(IoC) with react/mobx is just an overhead
-            so we use self-referencing `God Object` anti pattern 
+            so we use self-referencing `God Object` anti pattern
             * this pattern `anti` can be used safely with some restrictions in dynamic typing languages
             * since this may leads to issues with some of testing methodologies (FDD/BDD)`@ subcutaneous test, UI test` if developers does not know how to controlling its side effects
-            
+
     * To Respect SCP we delegated validation out of `entity framework core` to Command or Query in CQRS `MediatR`
         * we use `FluentValidation.AspNetCore` package to support popular validation, also created some custom validations
     * All Loading of nested entities done with `LazyLoadingProxies` middleware to prevent loading non necessary data
@@ -96,11 +96,11 @@ Please Notice : To protect this file from any manipulation i signed it
         * `MySql/MariaDB` for Linux Server
 * VCS
     * GitHub
-    
+
 * Cloud Providers
     * Cloudinary For Image storage and images manipulation eg,`Focus cropping to face`
-* RealTime & Multicasting Communications
-    * SignalR 
+* RealTime & MultiCasting Communications
+    * SignalR
 
 </p>
 </details>
@@ -109,13 +109,13 @@ Please Notice : To protect this file from any manipulation i signed it
 <p>
 
 * [React](https://reactjs.org/)
-  * UI manager 
+  * UI manager
 * [Typescript](https://www.typescriptlang.org/)
-  * Type safty enhancer
+  * Type safety enhancer
 * [Axios](https://github.com/axios/axios)
   * HTTP client
 * [mobx-react-lite](https://mobx-react.js.org/)
-  * State mangament system
+  * State management system
 * [semantic-ui-react](https://react.semantic-ui.com/)
   * Layout/UI Components
 * [react-router-dom](https://reacttraining.com/react-router/)
@@ -167,9 +167,9 @@ Please Notice : To protect this file from any manipulation i signed it
     * Contains UI/Client projects eg, reactApp , angularApp ...
     * But Not Asp.net Core MVC App `This project is web api & client`
     * Ignored by default from .git of backend to allow work separately on front-end
-    
+
 * Dev
-    * For any development files 
+    * For any development files
     * Ignored from git track
 
 </p>
@@ -177,9 +177,9 @@ Please Notice : To protect this file from any manipulation i signed it
 
 <details><summary>Architecture Diagrams</summary>
 <p>
- 
+
 #### Calls UML Diagram
- 
+
 ![wpUI](./previews/ActiveBook/FinalCalls.png)
 
 #### References UML Diagram
@@ -201,7 +201,7 @@ Please Notice : To protect this file from any manipulation i signed it
 * `Every Server Side Functionalities Built from scratch except jwt generator`
 * MySql
 * Bootstrap 4
-* Files Prvider : Local File System
+* Files Provider : Local File System
 
 
 </p>
@@ -210,9 +210,9 @@ Please Notice : To protect this file from any manipulation i signed it
 <details><summary>Notes</summary>
 <p>
 
-* This application demnostrate the main design paradigm php oriented to , which called/ImplementedAs `Spaghetti Pattern`
+* This application demonstrate the main design paradigm php oriented to , which called/ImplementedAs `Spaghetti Pattern`
   * This Pattern considered as an `anti-pattern` , so it's very dangerous to use it in medium+ application
-  But since it is the most commom paradigm php designed for 
+  But since it is the most common paradigm php designed for
   `for example you can use(access/modify) many global/static variables from anywhere in the code` which violate SRP `Single Responsibility Principle`
 * So, Why Create This app with this pattern ?
   * Answer : to demonstrate some of use cases of this pattern , and show how very easy this pattern may destroy any project
@@ -237,7 +237,7 @@ Please Notice : To protect this file from any manipulation i signed it
 * Frontend Container : Angular8
 * UI Helpers : ngx-bootstrap
 * Sqlite & SqlServer
-* Files Prvider : Cloud
+* Files Provider : Cloud
   * [Cloudinary](https://cloudinary.com)
 
 </p>
@@ -257,39 +257,39 @@ Please Notice : To protect this file from any manipulation i signed it
 
 <details><summary>Technologies</summary>
 <p>
- 
+
 * Asp.net Core MVC : 2.1
 * Razor Pages `For Registeration System Layout`
 * SqlServer
-* Files Prvider : `Local File System`
+* Files Provider : `Local File System`
 
 </p>
 </details>
 
-     
+
 #### [AbtWifiPassUI](https://mega.nz/#!exJRVK5a!-kvdJX0QLk9uvTGry1_tIa8PwNo2sNgJy0UFekZvbSo)
 ##### UI Utils Allow to fetch all saved wifi passwords from local machine
 
 <details><summary>Details</summary>
 <p>
- 
+
 * [UI Version](https://mega.nz/#!exJRVK5a!-kvdJX0QLk9uvTGry1_tIa8PwNo2sNgJy0UFekZvbSo)
   * developed with wpf & windows system sdk
-* [Silent Version](https://mega.nz/#!LsJ3HIpD!vOMtRkZwN8gDLZo0W3DikKYmPr_AZiskCYb5h8YHomw) 
+* [Silent Version](https://mega.nz/#!LsJ3HIpD!vOMtRkZwN8gDLZo0W3DikKYmPr_AZiskCYb5h8YHomw)
    * `fetching passwords list by just clicking on exe file and save it to exe location`
    * developed with windows form
 * Note
-  * I remove tracking keyboard via remote server functionality since it is not encrypted and most of antivrus software
+  * I remove tracking keyboard via remote server functionality since it is not encrypted and most of antivirus software
   will treat it as a malicious software
     * this happens because this functionality based on execute `memory injection` attack from C++ dll via unsafe code
     so you need to encrypt the source code and only compile it on the flay, so i will need to ship gcc compiler with
     this app, since neither me or you have a certification to publish this application with it and we can not legally
     accomplish this, so i just decide to move it to my rates software repository `private`.
     * Also still need to chip `gcc` or `g++` with `the spy server` to allow low level execution , and this will only
-    work well with windowx xp, vista, `unless you have a vulnerability to melt this app process with it :)`
-    
+    work well with windows xp, vista, `unless you have a vulnerability to melt this app process with it :)`
+
     * Also you should know , this mechanism is very popular in `RAT` applications `eg, njRAT`.
-    
+
 </p>
 </details>
 
@@ -300,8 +300,8 @@ Please Notice : To protect this file from any manipulation i signed it
 
 </p>
 </details>
-    
-  
+
+
 
 #### [Wpf Simple Store Manager](https://mega.nz/#!S9QRxYgQ!54FHe9rOf3spao3U-pf0F35E50N4cazykYAxF1hm5EQ)
 #### The main purpose of this app is demonstrate using pointers between different windows without losing data in wpf app
