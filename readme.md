@@ -19,12 +19,20 @@ Please Notice : To protect this file from any manipulation i signed it
 #### [NetConto](https://www.youtube.com/watch?v=DfJW_CvYl2I)
   * `The Most Advanced Network Throttling And Monitoring Application`
   * This Application Is Unique
+  * Written in
+     * C/C++: for low level network controlling, and driver programming based on *npf*
+     * C# .net for managed code
+     * WPF for layout
+     * NoSql Embeded Db *LiteDB*
+     * low level code connected to .net via low level interpolotion and un managed .net code `& un safe`
 
 #### [NetMonto](https://www.youtube.com/watch?v=3SlsOuEPcfI)
   * `The Most Advanced Network Throttling And Monitoring And Controlling Application`
   * This App Can Control Everything in your network, even how much data user can consume per minute/day/....
   * This Application Is Unique, and it is the enterprise version of <b>NetConto</b>
-  
+  * Written in
+     * The same as *NetConto*
+   
 ### Open Source Projects
 
 #### [C# Design Patterns Collection](https://github.com/AlBannaTechno/C-Sharp-Design-Pattern-Collection)
