@@ -279,6 +279,22 @@ Please Notice : To protect this file from any manipulation i signed it
 </p>
 </details>
 
+#### [Python Tkinter library to make any widget overlayed on the screen](https://www.youtube.com/watch?v=o297gigXWAA)
+
+<details><summary>Details</summary>
+<p>
+
+* User Python Tkinter as a GUI Library
+* Allow any widget or window to be on top/top-most and allow click through via alpha chanel
+* Highly Customizable if needed, but it can work directly without any additional configuration
+* Handle Clicks 
+* Optionally override the widget geastures
+* Drag and Drop
+* Customizable z-index depth visability
+
+</p>
+</details>
+
 
 #### [AbtWifiPassUI](https://mega.nz/#!exJRVK5a!-kvdJX0QLk9uvTGry1_tIa8PwNo2sNgJy0UFekZvbSo)
 ##### UI Utils Allow to fetch all saved wifi passwords from local machine
