@@ -280,11 +280,12 @@ Please Notice : To protect this file from any manipulation i signed it
 </details>
 
 #### [Python Tkinter library to make any widget overlayed on the screen](https://www.youtube.com/watch?v=o297gigXWAA)
+##### Can used to handle overlayed widgets of any application without messing with the application logic
 
 <details><summary>Details</summary>
 <p>
 
-* User Python Tkinter as a GUI Library
+* Used Python Tkinter as a GUI Library
 * Allow any widget or window to be on top/top-most and allow click through via alpha chanel
 * Highly Customizable if needed, but it can work directly without any additional configuration
 * Handle Clicks 
