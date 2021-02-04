@@ -1,6 +1,6 @@
 # Osama Al Banna Resume
 
-#### Last Update Date : 2020/08/05
+#### Last Update Date : 2021/02/04
 Please Use [this](https://mega.nz/#F!21QzFAYb!YDFikLBkTp0KznPFZU68mQ) decrypted mega link to download/show the resume
 
 Please Notice : To protect this file from any manipulation i signed it
@@ -15,6 +15,34 @@ Please Notice : To protect this file from any manipulation i signed it
 ##### Note: Some of next projects base ideas inspired by popular success busniss projects or online training course/s
 
 ### Public Commercial Projects
+
+#### Installments Manager (مدير الأقساط) `Comming Soon`
+This application is another story in Desktop Application Industry
+It used new exclusive `private` technologies, to make everything reactive and reusable
+I will publish a snaps from the code and github issue trackers, once the application finished
+
+<details><summary>Screenshots</summary>
+<p>
+
+
+![2021-02-04_152652](https://user-images.githubusercontent.com/13814190/106899043-9192ad00-66fd-11eb-8ee6-47767142709b.png)
+
+I still have some issues to solve, and some features to implement, before publish the first final release
+![2021-02-04_153113](https://user-images.githubusercontent.com/13814190/106899681-53e25400-66fe-11eb-8b5c-93ea6d84d17c.png)
+![2021-02-04_153746](https://user-images.githubusercontent.com/13814190/106900279-01edfe00-66ff-11eb-8f3f-ce2f5b5ef0f8.png)
+
+Project Diagram
+![2021-02-04_154438](https://user-images.githubusercontent.com/13814190/106901452-71b0b880-6700-11eb-9a64-427362f94f06.png)
+
+This project like some others, based on well organized exlusive `personal` nuget packages
+
+the packages that this project uses
+
+![2021-02-04_155329](https://user-images.githubusercontent.com/13814190/106902484-935e6f80-6701-11eb-877b-f14005a04b95.png)
+
+</p>
+</details>
+
 
 #### [NetConto](https://www.youtube.com/watch?v=DfJW_CvYl2I)
   * `The Most Advanced Network Throttling And Monitoring Application`
