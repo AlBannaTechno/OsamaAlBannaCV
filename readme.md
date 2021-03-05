@@ -36,9 +36,9 @@ Project Diagram
 
 This project like some others, based on well organized exlusive `personal` nuget packages
 
-the packages that this project uses
+the packages this project uses
 
-![2021-02-04_155329](https://user-images.githubusercontent.com/13814190/106902484-935e6f80-6701-11eb-877b-f14005a04b95.png)
+![106902484-935e6f80-6701-11eb-877b-f14005a04b952](https://user-images.githubusercontent.com/13814190/110095524-b1250000-7da5-11eb-8c99-0806ba031e57.png)
 
 </p>
 </details>
