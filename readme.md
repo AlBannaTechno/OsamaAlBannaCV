@@ -36,6 +36,7 @@ Click the image to zoom
 ![2021-03-20_19-09-45](https://user-images.githubusercontent.com/13814190/111878263-31578200-89b0-11eb-9f3b-acfff6133ae3.png)
 
 Project Diagram
+
 ![2021-02-04_154438](https://user-images.githubusercontent.com/13814190/106901452-71b0b880-6700-11eb-9a64-427362f94f06.png)
 
 This project like some others, based on well organized exlusive `personal` nuget packages
