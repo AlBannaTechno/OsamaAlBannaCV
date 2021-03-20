@@ -24,12 +24,16 @@ I will publish a snaps from the code and github issue trackers, once the applica
 <details><summary>Screenshots</summary>
 <p>
 
+![2021-03-20_190536](https://user-images.githubusercontent.com/13814190/111878098-5e576500-89af-11eb-8482-772f459e6225.png)
 
-![2021-02-04_152652](https://user-images.githubusercontent.com/13814190/106899043-9192ad00-66fd-11eb-8ee6-47767142709b.png)
+
 
 I still have some issues to solve, and some features to implement, before publish the first final release
 ![2021-02-04_153113](https://user-images.githubusercontent.com/13814190/106899681-53e25400-66fe-11eb-8b5c-93ea6d84d17c.png)
-![2021-02-04_153746](https://user-images.githubusercontent.com/13814190/106900279-01edfe00-66ff-11eb-8f3f-ce2f5b5ef0f8.png)
+
+Click the image to zoom
+
+![2021-03-20_19-09-45](https://user-images.githubusercontent.com/13814190/111878263-31578200-89b0-11eb-9f3b-acfff6133ae3.png)
 
 Project Diagram
 ![2021-02-04_154438](https://user-images.githubusercontent.com/13814190/106901452-71b0b880-6700-11eb-9a64-427362f94f06.png)
