@@ -378,4 +378,4 @@ the packages this project uses
 </p>
 </details>
 
-#### For more projects and statistics: take a look at [AlBannaTechno Account](https://github.com/AlBannaTechno/)
+#### For more projects: take a look at [AlBannaTechno Account](https://github.com/AlBannaTechno/)
