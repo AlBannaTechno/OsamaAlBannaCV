@@ -19,6 +19,10 @@ Please Notice : To protect this file from any manipulation i signed it
 #### Installments Manager (مدير الأقساط) `Comming Soon`
 This application is another story in Desktop Application Industry
 It used new exclusive `private` technologies, to make everything reactive and reusable
+
+
+This app orinted around [DDD](https://www.dddcommunity.org/)
+
 I will publish a snaps from the code and github issue trackers, once the application finished
 
 <details><summary>Screenshots</summary>
