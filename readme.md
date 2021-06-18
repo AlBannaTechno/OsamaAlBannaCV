@@ -16,18 +16,27 @@ Please Notice : To protect this file from any manipulation i signed it
 
 ### Public Commercial Projects
 
-#### Installments Manager (مدير الأقساط) `Comming Soon`
+#### Installments Manager (مدير الأقساط)
 This application is another story in Desktop Application Industry
 It used new exclusive `private` technologies, to make everything reactive and reusable
 
 
 This app orinted around [DDD](https://www.dddcommunity.org/)
 
+
+### Update, Released: [Link](https://albannatechno.github.io/InstallmentsManagerProject/README)
+
 I will publish a snaps from the code and github issue trackers, once the application finished
 
 <details><summary>Screenshots</summary>
 <p>
 
+ ### UPDATE: RELEASED INFO `Current`
+ 
+ ![2021-03-20_190536](https://user-images.githubusercontent.com/13814190/120482478-7ab14e00-c3b1-11eb-9949-11ecd7d17980.png)
+
+ ### PRE-RELEASE INFO `Old`
+ 
 ![2021-03-20_190536](https://user-images.githubusercontent.com/13814190/111878098-5e576500-89af-11eb-8482-772f459e6225.png)
 
 
