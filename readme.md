@@ -118,7 +118,9 @@ the packages this project uses
 
 ### Projects Previews
 
-#### [ActiveBook](https://mega.nz/#!r4AFySYa!7Ba4twziL4mBpZZtIlyoyk4hfkTnrbtI3JP328ATZmQ)
+#### [ActiveBook](https://mega.nz/#!r4AFySYa!7Ba4twziL4mBpZZtIlyoyk4hfkTnrbtI3JP328ATZmQ) → [Album](https://myalbum.com/album/fdYYG8X973792F/)
+
+![ActiveBookPreview mp4_20210629_182508 301](https://user-images.githubusercontent.com/13814190/123842427-0cf53500-d911-11eb-830b-c4c70f493185.jpg)
 
 ##### Social Network App For Activities
 ##### built as demonstration of hyper clean arch
