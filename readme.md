@@ -1,17 +1,5 @@
 # Osama Al Banna Resume
 
-#### Last Update Date : 2021/02/04
-Please Use [this](https://mega.nz/#F!21QzFAYb!YDFikLBkTp0KznPFZU68mQ) decrypted mega link to download/show the resume
-
-Please Notice : To protect this file from any manipulation i signed it
-* Internally with : Foxit Phantom
-  * To check it press on the signature at the right bottom corner of this page (may not working on the browser)
-
-* [Externally With : GPG](https://www.phildev.net/pgp/gpginstall.html)
-  * [Signature File : named [this file name].pdf.sig](https://www.thesecuritybuddy.com/pgp-and-gpg/digital-signature-using-gpg/)
-  * My Fingerprint : `3C0CF524B1AE5C08D2CF1576CB13D5ABD30D7F9A`
-
-
 ##### Note: Some of next projects base ideas inspired by popular success busniss projects or online training course/s
 
 ### Public Commercial Projects
